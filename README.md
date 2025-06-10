@@ -7,22 +7,31 @@ This repository contains the source code and practical examples developed as par
 
 ## 🎯 Project Objectives
 
-Implement RESTful APIs for data analysis. 
-Apply data processing and cleaning techniques. 
-Develop interactive visualizations.  
-Create scalable data pipelines.
+- Implement RESTful APIs for data analysis. 
+
+- Apply data processing and cleaning techniques. 
+
+- Develop interactive visualizations.
+
+- Create data pipelines.
 
 ## 🛠️ Technologies Used
 
 Python 3.8+
-FastAPI - Framework for creating APIs
-Pandas - Data manipulation and analysis
-NumPy - Numerical operations
-Matplotlib/Plotly - Data visualization
-SQLAlchemy - Database ORM
-Docker - Containerization
-Apache Airflow - Apache Airflow - Workflow orchestration
 
+FastAPI - Framework for creating APIs
+
+Pandas - Data manipulation and analysis
+
+NumPy - Numerical operations
+
+Matplotlib/Plotly - Data visualization
+
+SQLAlchemy - Database ORM
+
+Docker - Containerization
+
+Apache Airflow - Apache Airflow - Workflow orchestration
 
 ## 🚀 Installation and Setup
 
@@ -82,12 +91,3 @@ The API will be available at: http://localhost:8000
 
 - **Swagger UI:** http://localhost:8000/docs
 - **ReDoc:** http://localhost:8000/redoc
-
-## Running Data Analysis
-```bash
-# Run Jupyter notebooks
-jupyter notebook notebooks/
-
-# Run analysis scripts
-python src/analysis/data_analysis.py
-```
